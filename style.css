@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+}
+
+.fruit {
+    height: 200px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    font-family: Helvetica;
+    padding: 30px;
+}
+
+.lemon {
+    background-color: #fafa80;
+}
+
+.apple {
+    background-color: #f76060;
+}
+
+.kiwi {
+    background-color: #4e964e;
+}
+
+.strawberry {
+    background-color: #f54242;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+a {
+    color: black;
+}
+
